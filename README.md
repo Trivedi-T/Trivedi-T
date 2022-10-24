@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Trivedi-T
-- 👀 I’m interested in Fullstack-developing.
-- 🌱 I’m currently learning Android development.
+- 👀 I’m interested in Fullstack-development.
+- 🌱 I’m currently learning UI/UX Designing.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : Mail me at tanmayhere23@gmail.com .
 
